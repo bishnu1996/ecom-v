@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ecom-v/static/css/main.870bb1de.css",
+    "main.js": "/ecom-v/static/js/main.23099c82.js",
+    "static/js/787.dcc73137.chunk.js": "/ecom-v/static/js/787.dcc73137.chunk.js",
+    "static/media/clothShop.jpg": "/ecom-v/static/media/clothShop.50481582d49307a31807.jpg",
+    "static/media/clothShop1.jpg": "/ecom-v/static/media/clothShop1.7caa72f837bd04fd5ba1.jpg",
+    "index.html": "/ecom-v/index.html",
+    "main.870bb1de.css.map": "/ecom-v/static/css/main.870bb1de.css.map",
+    "main.23099c82.js.map": "/ecom-v/static/js/main.23099c82.js.map",
+    "787.dcc73137.chunk.js.map": "/ecom-v/static/js/787.dcc73137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.870bb1de.css",
+    "static/js/main.23099c82.js"
+  ]
+}
